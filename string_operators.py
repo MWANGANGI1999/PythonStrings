@@ -5,7 +5,7 @@ a="Hello"
 b="world"
 print(r"c:\'documents'\python")
 print("c://'documents'/python")
-#it combines two strings together
+#it concatenate two strings together
 a="Hello"
 b="world"
 print(a+b)
